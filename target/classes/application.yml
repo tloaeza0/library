@@ -1,0 +1,5 @@
+#spring:
+#  data:
+#    mongodb:
+#      database: library
+#      uri: mongodb+srv://dbUser:mongo154@cluster0.wofqr5r.mongodb.net/?retryWrites=true&w=majority
